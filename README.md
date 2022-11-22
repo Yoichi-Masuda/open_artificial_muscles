@@ -30,6 +30,8 @@
 - 3Dプリント品　UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M5.stl)
             　UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M5.stl)
 3Dプリント品の継手にはネジがモデリングされていますが，造形後にM5タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．
+7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．
+レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
 
 
 ### 【人工筋の材料】外径5mm
@@ -42,6 +44,8 @@
 - 3Dプリント品　UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M3.stl)
             　UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M3.stl)
 3Dプリント品の継手にはネジがモデリングされていますが，造形後にM3タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．造形時に空気穴が塞がってしまうことがありますが，Φ1mmのドリルで追加工して使用することが可能です．
+7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．
+レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
 
 外径5mmの人工筋は，接続するエアチューブ（ポリウレタンチューブ）の外径が3mmであることに注意してください．
 
