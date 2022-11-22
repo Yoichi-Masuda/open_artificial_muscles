@@ -1,4 +1,4 @@
 # マッキベン型人工筋肉のレシピ
 
 
-[Home](README.md)
+[作り方](index.md)
