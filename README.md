@@ -27,11 +27,11 @@
 - エスコ　7-9mm ホースクランプ(ツーイヤー型/10個入り)　 [EA463AE-9](https://www.monotaro.com/p/4993/6748/)　395円 
 - コガネイ　クイック継手ミニタイプ TSシリーズ ストレート [TS4-M5M](https://jp.misumi-ec.com/vona2/detail/221000065534/?PNSearch=TS4-M5M&HissuCode=TS4-M5M&searchFlow=suggest2products&Keyword=TS4-M5M&list=SuggestPreview) 単価188円
 
-- 3Dプリント品　UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M5.stl)
-            　UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M5.stl)
-3Dプリント品の継手にはネジがモデリングされていますが，造形後にM5タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．
-7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．
-レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
+- 3Dプリント品
+    - UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M5.stl)
+    - UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M5.stl)
+        - 3Dプリント品の継手にはネジがモデリングされていますが，造形後にM5タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．
+        - 7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
 
 
 ### 【人工筋の材料】外径5mm
@@ -41,15 +41,13 @@
 - エスコ　5-7mm ホースクランプ(ツーイヤー型/10個入り)　 [EA463AE-7](https://www.monotaro.com/p/4993/6732/)　395円 
 - コガネイ　クイック継手ミニタイプ TSシリーズ ストレート [TS3-M3M](https://jp.misumi-ec.com/vona2/detail/221000065534/?PNSearch=TS3-M3M&HissuCode=TS3-M3M&searchFlow=suggest2products&Keyword=TS3-M3M&list=SuggestPreview) 単価195円
 
-- 3Dプリント品　UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M3.stl)
-            　UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M3.stl)
-3Dプリント品の継手にはネジがモデリングされていますが，造形後にM3タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．造形時に空気穴が塞がってしまうことがありますが，Φ1mmのドリルで追加工して使用することが可能です．
-7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．
-レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
+- 3Dプリント品
+    - UV硬化レジン製の継手：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/coupler_M3.stl)
+    - UV硬化レジン製の栓：[リンク](https://github.com/Yoichi-Masuda/open_artificial_muscles/blob/master/thin_muscle/cap_M3.stl)
+        - 3Dプリント品の継手にはネジがモデリングされていますが，造形後にM3タップでネジをさらった方が簡単かつ，空気の漏れなく組み立てが可能です．造形時に空気穴が塞がってしまうことがありますが，Φ1mmのドリルで追加工して使用することが可能です．
+        - 7mmと5mmの人工筋のパーツのみ，光硬化式プリンタで造形する必要があります．レジンは[こちら](https://www.amazon.co.jp/dp/B09H2XZTSK)を推奨します．
 
-外径5mmの人工筋は，接続するエアチューブ（ポリウレタンチューブ）の外径が3mmであることに注意してください．
-
-[外径3mmのポリウレタンチューブの例](https://www.monotaro.com/p/5815/5517/) 1mあたり約40円程度
+外径5mmの人工筋は，接続するエアチューブ（ポリウレタンチューブ）の外径が3mmであることに注意してください（[外径3mmのポリウレタンチューブの例](https://www.monotaro.com/p/5815/5517/) 1mあたり約40円程度）．
 
 
 ### 3Dプリント品とクイック継手の接続
