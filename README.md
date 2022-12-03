@@ -59,7 +59,7 @@
 
 ## みなさんの改良版レシピ
 ### [@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんの細径マッキベン（外形5mm）
-[@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんがレシピを改良してくださいました．収縮率は20％ほどだそうです．
+[@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんが5mmマッキベンのレシピを改良してくださいました．収縮率は20％ほどだそうです．
 動作中の様子は[こちら](https://twitter.com/corone422/status/1587334103325880320?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)．
 
 <img src="https://user-images.githubusercontent.com/98135132/205417713-2e496da9-1768-4219-a373-cf938346c8f0.png" width="640px"><img src="https://user-images.githubusercontent.com/98135132/205418053-0f69b856-b75e-481e-9a24-5adf3a202efd.png" width="320px">
@@ -73,3 +73,6 @@
 
 > Coro @corone422 [午前10:45 · 2022年12月3日](https://twitter.com/corone422/status/1598855958742306816?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)
 > シリコンチューブとポリウレタンチューブの摩擦を利用してうまく止まっているような感じになりますね。なのでカシメの時にひらべったく潰れちゃうので、耳と耳を工具で挟み、チューブを丸く戻し> > てあげる作業だけ必要になってきます。
+
+チューブがつぶれないように、[インサートリング](https://www.monotaro.com/p/3531/4526/?t.q=%83C%83%93%83T%81%5B%83g%83%8A%83%93%83O)を入れればいいかもしれません．
+締結力も上がるはず．
