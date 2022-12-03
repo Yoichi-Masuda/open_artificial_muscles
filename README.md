@@ -58,5 +58,5 @@
 上記のラインナップのうち，外径が5mmの最小のものについては，他の人工筋に比べて収縮率が低くなっています．編組チューブの編み方やシリコンチューブの厚みによって，収縮率は変化するため，異なる製品や厚みでの細径人工筋の検討を我々も行っています．是非良い改善，検討案などがあればアドバイスいただけると幸いです．
 
 ## 改良版について
-### @corone422さんが外形5mmの細径マッキベンを改良してくださいました．収縮率は20％ほどだそうです．
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+### @corone422[https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ]さんが外形5mmの細径マッキベンを改良してくださいました．収縮率は20％ほどだそうです．
+![image](https://user-images.githubusercontent.com/98135132/205417496-96622ec5-2a86-4e03-aaac-689fc1058db0.png)
