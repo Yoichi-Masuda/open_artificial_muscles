@@ -59,4 +59,4 @@
 
 ## 改良版について
 ### @corone422さんが外形5mmの細径マッキベンを改良してくださいました．収縮率は20％ほどだそうです．
-<blockquote class=”twitter-tweet” data-conversation=”none”><a href=”https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ”></a></blockquote>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
