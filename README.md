@@ -62,8 +62,7 @@
 [@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんがレシピを改良してくださいました．収縮率は20％ほどだそうです．
 動作中の様子は[こちら](https://twitter.com/corone422/status/1587334103325880320?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)．
 
-<img src="https://user-images.githubusercontent.com/98135132/205417713-2e496da9-1768-4219-a373-cf938346c8f0.png" width="640px">
-<img src="https://user-images.githubusercontent.com/98135132/205418053-0f69b856-b75e-481e-9a24-5adf3a202efd.png" width="640px">
+<img src="https://user-images.githubusercontent.com/98135132/205417713-2e496da9-1768-4219-a373-cf938346c8f0.png" width="640px"><img src="https://user-images.githubusercontent.com/98135132/205418053-0f69b856-b75e-481e-9a24-5adf3a202efd.png" width="320px">
 
 > Coro @corone422 [午前1:56 · 2022年12月3日](https://twitter.com/corone422/status/1598722900210900992?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)
 > - スリーブは https://monotaro.com/p/3506/8205/
