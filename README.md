@@ -60,4 +60,4 @@
 ## 改良版について
 ### [@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんの細径マッキベン（外形5mm）
 [@corone422](https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ)さんがレシピを改良してくださいました．収縮率は20％ほどだそうです．
-![image](https://user-images.githubusercontent.com/98135132/205417496-96622ec5-2a86-4e03-aaac-689fc1058db0.png　width="320px")
+<img src="https://twitter.com/corone422/status/1598710760959782912?s=20&t=0VL1ZC6_-5MBRaOd5uCATQ" width="320px">
