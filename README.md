@@ -58,6 +58,7 @@
 ### 3Dプリント品とクイック継手の接続
 
 外径7mm,外径5mmの人工筋は，製作前に3Dプリント品のネジにクイック継手をあらかじめ接続しておきます（写真参照(中間1.jpg,中間2.jpg,最小1.jpg,最小2.jpgあたりをご使用ください)）．このことに加え，栓にABS用の接着剤が不要であること以外は，動画でも説明されている外径9mmの人工筋の製法と同様です．
+<img src="https://user-images.githubusercontent.com/98135132/205851925-890debe0-d741-4478-b136-ea0e033ab6d4.JPG" width="320px"><img src="https://user-images.githubusercontent.com/98135132/205851935-14de6e83-9328-44b9-b2f0-9a00e548cae0" width="320px">
 
 ### 径ごとの性能差
 
